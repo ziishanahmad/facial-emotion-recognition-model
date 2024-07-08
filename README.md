@@ -1,5 +1,4 @@
 
-```markdown
 # Facial Emotion Recognition Model
 
 This repository contains a Convolutional Neural Network (CNN) model for recognizing facial emotions using the FER-2013 dataset. The model is trained to classify images into one of seven emotions: Angry, Disgust, Fear, Happy, Sad, Surprise, and Neutral.
@@ -294,5 +293,3 @@ For any questions or feedback, please contact:
 - **Email:** ziishanahmad@gmail.com
 - **GitHub:** [ziishanahmad](https://github.com/ziishanahmad)
 - **LinkedIn:** [ziishanahmad](https://www.linkedin.com/in/ziishanahmad/)
-```
-
